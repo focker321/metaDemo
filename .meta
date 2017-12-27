@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "userService": "git@github.com:you/userService.git",
+    "graphqlService": "git@github.com:you/graphqlService.git",
+    "appService": "git@github.com:you/appService.git"
+  }
+}
